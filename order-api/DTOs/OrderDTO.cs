@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace order_api.DTOs;
 
 public class OrderDTO
