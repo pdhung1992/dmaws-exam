@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IZVtjX8dx3nCYijkmG53wGgsBIAI9nJejd1TaaVGliw=",
+  "Source": "order-api",
+  "BasePath": "_content/order-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
